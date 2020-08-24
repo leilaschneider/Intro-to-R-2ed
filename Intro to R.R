@@ -1,5 +1,7 @@
 # R script to accompany Intro to R
-# Copy for Leila Schneider
+# Copy for Leila Schneider '23
+#
+#Customized by Leila Schneider 
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
